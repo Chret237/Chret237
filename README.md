@@ -1,5 +1,9 @@
 # Hi there, I’m Chretien Rostini 👋
 
+[comment]: <> (This is a comment, it will not be included)
+[comment]: <> (in  the output file unless you use it in)
+[comment]: <> (a reference style link.)
+
 🎓 **Software Engineer Student**  
 🌐 **Web Development Enthusiast**  
 🛠️ **IT & DevOps Passionate**  
