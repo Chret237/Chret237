@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I’m Chretien Rostini 👋
 
-<!--
-**Chret237/Chret237** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Software Engineer Student**  
+🌐 **Web Development Enthusiast**  
+🛠️ **IT & DevOps Passionate**  
+💻 **Hobbyist Coder** (I write code for fun!)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects I’m Proud Of
+
+- **Interactive Map Project**  
+  Explore dynamic, user-friendly maps built with the latest web technologies.
+
+- **Java Library Management**  
+  Manage books, members, and more in this feature-rich Java application.
+
+---
+
+## 🌱 About Me
+
+- Fun, friendly, and always ready to learn something new!
+- Minimalist by design, passionate by nature.
+- I love building things that make people’s lives easier.
+
+---
+
+## 📫 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chretien%20Rostini-blue?logo=linkedin)](https://www.linkedin.com/in/chretien-rostini-b68732258)
+
+---
+
+> “Writing code is my hobby.”  
+> – Chret237
