@@ -83,10 +83,8 @@ Let’s connect! Feel free to reach out to me on:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chret237&layout=compact&theme=radical)
 
 ---
-
 > “Writing code is my hobby.”  
 > – Chret237
-
 ---
 
 <!-- Reference: ![image1](image1) -->
