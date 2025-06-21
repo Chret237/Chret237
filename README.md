@@ -73,7 +73,7 @@ Let’s connect! Feel free to reach out to me on:
 
 <!-- [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=flat)](https://discord.com/) Add your Discord link if you like -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Chretien%20Rostini-blue?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/chretien-rostini-b68732258)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://x.com/ChretienRostini)
+[![Twitter](https://img.shields.io/badge/Twitter-Chretien%20Rostini-black?logo=twitter&logoColor=white&style=flat)](https://x.com/ChretienRostini)
 
 ---
 
