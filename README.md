@@ -53,10 +53,7 @@
 ### Tools and Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white&style=flat)
-![PhpStorm](https://img.shields.io/badge/PhpStorm-000000?logo=phpstorm&logoColor=white&style=flat)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=flat)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat)
+<> ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=flat)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat)
 
