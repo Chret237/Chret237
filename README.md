@@ -2,7 +2,7 @@
 
 # Hi there, I’m Chretien Rostini 👋
 
-🎓 **Software Engineer Student**  
+🎓 **Software Engineering Studentt**  
 🌐 **Web Development Enthusiast**  
 🛠️ **IT & DevOps Passionate**  
 💻 **Hobbyist Coder** (I write code for fun!)
