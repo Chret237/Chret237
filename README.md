@@ -9,7 +9,7 @@
 
 ## 🚀 Projects I’m Proud Of
 
-- **Interactive Map Project**  
+- **React Interactive Map**  
   Explore dynamic, user-friendly maps built with the latest web technologies.
 
 - **Java Library Management**  
@@ -25,11 +25,63 @@
 
 ---
 
-## 📫 Let’s Connect
+## 🛠️ Skills
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chretien%20Rostini-blue?logo=linkedin)](https://www.linkedin.com/in/chretien-rostini-b68732258)
+### Programming Languages
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=flat)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+
+### Frameworks and Libraries
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
+![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat)
+![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=flat)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat)
+![MaterialUI](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white&style=flat)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=flat)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=flat)
+![Qt](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white&style=flat)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=flat)
+
+### Tools and Technologies
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white&style=flat)
+![PhpStorm](https://img.shields.io/badge/PhpStorm-000000?logo=phpstorm&logoColor=white&style=flat)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=flat)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=flat)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat)
+
+---
+
+## 🤝 Connect with Me
+
+Let’s connect! Feel free to reach out to me on:
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=flat)](https://discord.com/) <!-- Add your Discord link if you like -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chretien%20Rostini-blue?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/chretien-rostini-b68732258)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/) <!-- Add your Twitter link if you like -->
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chret237&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chret237&layout=compact&theme=radical)
 
 ---
 
 > “Writing code is my hobby.”  
 > – Chret237
+
+---
+
+<!-- Reference: ![image1](image1) -->
