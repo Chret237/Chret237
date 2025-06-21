@@ -28,27 +28,32 @@
 ## 🛠️ Skills
 
 ### Programming Languages
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=flat)
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=flat)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=flat)
+<!---
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=flat)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
+-->
+
 
 ### Frameworks and Libraries
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat)
-![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=flat)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat)
-![MaterialUI](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white&style=flat)
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=flat)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=flat)
-![Qt](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white&style=flat)
+<!---
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=flat)
+![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=flat)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=flat)
+-->
 
 ### Tools and Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)
@@ -65,9 +70,9 @@
 
 Let’s connect! Feel free to reach out to me on:
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=flat)](https://discord.com/) <!-- Add your Discord link if you like -->
+<!-- [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=flat)](https://discord.com/) Add your Discord link if you like -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Chretien%20Rostini-blue?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/chretien-rostini-b68732258)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/) <!-- Add your Twitter link if you like -->
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://x.com/ChretienRostini)
 
 ---
 
