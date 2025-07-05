@@ -1,4 +1,6 @@
+<!---
 ![image](https://img.freepik.com/premium-vector/web-developer-works-laptop-horizontal-banner-with-young-programmer-job-colorful-illustration-flat-style_198278-423.jpg?w=2000)
+-->
 
 # Hi there, I’m Chretien Rostini 👋
 
