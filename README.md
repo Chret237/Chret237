@@ -13,7 +13,7 @@
 
 ## 🚀 Projects I’m Proud Of
 
-- **Interactive Maps**  
+- **Interactive Africa Maps**  
   Explore dynamic, user-friendly maps.
 
 - **Java Library Management**  
