@@ -13,11 +13,11 @@
 
 ## 🚀 Projects I’m Proud Of
 
-- **React Interactive Map**  
-  Explore dynamic, user-friendly maps built with the latest web technologies.
+- **Interactive Maps**  
+  Explore dynamic, user-friendly maps.
 
 - **Java Library Management**  
-  Manage books, members, and more in this feature-rich Java application.
+  Manage books, members, and more.
 
 ---
 
