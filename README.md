@@ -76,9 +76,9 @@
 Let’s connect! Feel free to reach out to me on:
 
 <!-- [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=flat)](https://discord.com/) Add your Discord link if you like -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chretien%20Rostini-black?logo=linkedin&logoColor=blue&style=flat)](https://www.linkedin.com/in/chretien-rostini-b68732258)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chretien%20Rostini-blue?logo=linkedin&logoColor=blue&style=flat)](https://www.linkedin.com/in/chretien-rostini-b68732258)
 [![Twitter](https://img.shields.io/badge/Twitter-Chretien%20Rostini-black?logo=twitter&logoColor=black&style=flat)](https://x.com/ChretienRostini)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-</𝐂𝐡𝐫é𝐭𝐢𝐞𝐧%20𝐑.>-black?logo=whatsapp&logoColor=green&style=flat)](https://wa.link/rkq8w1)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-</𝐂𝐡𝐫é𝐭𝐢𝐞𝐧%20𝐑.>-green?logo=whatsapp&logoColor=green&style=flat)](https://wa.link/rkq8w1)
 
 ---
 
