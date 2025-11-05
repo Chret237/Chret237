@@ -45,12 +45,12 @@
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
 -->
 
-<!---
 ### Frameworks and Libraries
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=flat)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat)
 
+<!---
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=flat)
 ![AdonisJS](https://img.shields.io/badge/AdonisJS-220052?logo=adonisjs&logoColor=white&style=flat)
